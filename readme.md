@@ -1,7 +1,3 @@
-Here’s a sample README file for your project based on the provided HTML:
-
----
-
 # Tech Solutions Website
 
 ## Overview
